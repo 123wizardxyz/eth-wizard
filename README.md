@@ -1,4 +1,4 @@
-# eth-wizard
+# eth-wizard-v1
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/stake-house/eth-wizard/badge)](https://www.gitpoap.io/gh/stake-house/eth-wizard)
 
